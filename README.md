@@ -40,9 +40,6 @@ To run this project, you'll need:
 * 🐍 Python 3.8 or newer
 * 📦 `requests`, `pandas`, `openpyxl`, `jdatetime`
 
-🛡️ License
-This project is licensed under the MIT License.
-By contributing, you agree that your contributions will be released under the same license.
 
 ✨ Highlights
 
