@@ -1,7 +1,9 @@
 **Simple Phone Scraper for (mci.ir) & Number Evaluator in Python**
 
 This project introduces a Python-based web scraping tool for extracting and evaluating sellable phone numbers from the Hamrah Aval (Iran's leading mobile operator) website. It demonstrates practical use of requests and BeautifulSoup for structured data extraction, combined with a customizable scoring system to assess number value based on multiple criteria.  
-The scraper is designed to be lightweight, extensible, and easy to integrate, making it suitable for both educational purposes and as a foundation for more advanced data collection and analysis systems. [there are duplicate rows that you can simply unique them]
+The scraper is designed to be lightweight, extensible, and easy to integrate, making it suitable for both educational purposes and as a foundation for more advanced data collection and analysis systems.
+
+_[there are duplicate rows in the result that you can simply unique them]__
 
 ⚙️ Requirements  
 Python 3.8 or newer  
