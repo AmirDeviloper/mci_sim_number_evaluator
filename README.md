@@ -34,14 +34,17 @@ This will:
 
 > ⚠️ **Note:** The current scraped dataset may contain duplicate rows across batches — deduplicate on the phone number column (e.g. `df.drop_duplicates(subset="شماره")`) before further analysis if needed.
 
-⚙️ Requirements
+---
+
+## ⚙️ Requirements
 To run this project, you'll need:
 
 * 🐍 Python 3.8 or newer
 * 📦 `requests`, `pandas`, `openpyxl`, `jdatetime`
 
+---
 
-✨ Highlights
+## ✨ Highlights
 
 * 🌐 Direct API-based scraping (fast and reliable — no HTML parsing fragility)
 * 🧮 Fully customizable, weighted number-scoring system
